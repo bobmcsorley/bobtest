@@ -1,0 +1,15 @@
+blah
+
+some maven log stuff 
+
+blah
+
+Packaging webapp
+[INFO] Assembling webapp [cdmc] in [C:\workspacev4\cdmc\target\cdmc-0.0.1-SNAPSHOT]
+[INFO] Processing war project
+[INFO] Copying webapp resources [C:\workspacev4\cdmc\src\main\webapp]
+[INFO] Webapp assembled in [21452 msecs]
+[INFO] Building war: C:\workspacev4\cdmc\target\cdmc-0.0.1-SNAPSHOT.war
+[WARNING] Warning: selected war files include a WEB-INF/web.xml which will be ignored 
+(webxml attribute is missing from war task, or ignoreWebxml attribute is specified as 'true')
+[INFO] 
